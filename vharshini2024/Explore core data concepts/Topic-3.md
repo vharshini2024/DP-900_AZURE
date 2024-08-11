@@ -1,9 +1,9 @@
 # Transactional Data Processing (OLTP)
 
-**Overview**
+**Overview:**
 Transactional data processing systems manage and record events that organizations need to track, such as financial transactions or retail purchases. These systems handle high volumes of transactions daily, ensuring fast access and reliable data integrity.
 
-**Key Concepts**
+**Key Concepts:**
 
 - **Online Transactional Processing (OLTP)**: Focuses on real-time data processing where data is created, retrieved, updated, and deleted (CRUD operations). 
 
