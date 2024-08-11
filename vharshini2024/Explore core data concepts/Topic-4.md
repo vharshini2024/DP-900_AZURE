@@ -20,9 +20,3 @@ Analytical data processing handles large volumes of historical data for in-depth
 - **Data Scientists**: Explore raw data in data lakes.
 - **Data Analysts**: Create reports from data warehouses.
 - **Business Users**: View pre-made summaries in dashboards.
-
-## Concepts
-- **Data Lake**: Stores raw, unstructured data.
-- **Data Warehouse**: Optimized for querying structured data.
-- **Data Lakehouse**: Merges benefits of both data lakes and warehouses.
-- **OLAP**: Quickly analyzes pre-aggregated data.
